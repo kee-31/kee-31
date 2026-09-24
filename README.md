@@ -84,7 +84,7 @@ An academic software testing project completed as part of a Software Testing cou
 
 A web-based academic project designed to improve queue management in government offices.
 
-**Key areas:**
+**Key Areas:**
 
 * User Registration
 * User Login
@@ -101,7 +101,7 @@ A web-based academic project designed to improve queue management in government 
 
 A data analytics project focused on cleaning, analyzing and visualizing a dataset to generate meaningful insights.
 
-**Key areas:**
+**Key Areas:**
 
 * Data Cleaning
 * Excel Analysis
@@ -142,9 +142,9 @@ I believe in learning concepts through practical implementation and continuously
 
 I'm always interested in connecting with professionals, developers, testers, analysts and fellow learners.
 
-**LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/keerthirk)
 
-**GitHub:** [Explore my projects](YOUR_GITHUB_LINK)
+**GitHub:** [Explore my projects](https://github.com/kee-31)
 
 ---
 
